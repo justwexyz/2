@@ -4,13 +4,11 @@
 
 #tiles li img {
  	display: block;
-	width: 100%;
+	width: 300px;
+	height:400px;
+	
 }
 
-#tiles li img{
-	border-top-left-radius:0.2em;
-	border-top-right-radius:0.2em;
-}
 
 #tiles li {
 	width: 20%;
@@ -18,11 +16,8 @@
 	margin-bottom: 20px;
 	background-color: #ffffff;
 	border: 1px solid #dedede;
-	border-radius: 2px;
-	cursor: pointer;
-	border-radius: 0.2em;
 	float:left;
-    overflow：hidden
+ 
 
 	
 }
@@ -32,4 +27,5 @@
   position: relative; 
   margin: 0 ;
   padding: 0;
+
 } 
