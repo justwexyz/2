@@ -24,6 +24,7 @@ img{max-width:100%;}
 body{
 	font-family: 'Open Sans', sans-serif;
 	background:#F0EFEE;
+	background:url(../images/01.jpg) ;
 }
 /*---start-wrap----*/
 .wrap{
