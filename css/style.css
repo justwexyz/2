@@ -20,6 +20,8 @@ nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
  body{
+	width: 100%;
+	height:100%;
 	font-family: 'Open Sans', sans-serif;
 	background:#F0EFEE;
 	background:url(../images/01.jpg) ;
